@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T13:49:37.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fCikydwuCuhOW6mLXlt9" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-09T13:52:21.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GjFrLeWhU5uzYBp6GiRo" version="20.8.18" type="github">
   <diagram name="Page-1" id="1o8bksZp9QuYInwhWNQq">
-    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1415" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="Vsucb_MU8TqjF9mryZCo-14" value="ship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vsucb_MU8TqjF9mryZCo-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Conceptual Model for Global Super Store&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="680" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
