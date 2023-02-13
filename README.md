@@ -57,6 +57,8 @@ Use Tableau to investigate Global Super Store’s sales in the USA. Create a map
 
 ![task 4](https://user-images.githubusercontent.com/106580846/218467597-d1adb8ef-0baf-42f0-a790-b672160cd97a.png)
 
+Here is a link to the visualisation on Tableau Public https://public.tableau.com/views/Globalsuperstore_16759520720450/SalesinUSA?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Task 5: Create a bubble chart
 The Global Super Store needs to check their profits within the USA. Create a bubble chart in Tableau. When you rollover a bubble, you should be able to view the following information, 
 *	State name
