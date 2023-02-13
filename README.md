@@ -48,9 +48,35 @@ Create a Star schema that includes relevant fact and dimensions tables with rele
 *	Year, quarter, month, day 
 *	Category, subcategory and product name
 
-###### Step 2 Draw the star schema
+#### Step 2 Draw the star schema
 
 ![task 3](https://user-images.githubusercontent.com/106580846/218465366-929dab58-8959-4ff4-942d-0665b5152645.png)
+
+## Task 4: Create a map chart
+Use Tableau to investigate Global Super Store’s sales in the USA. Create a map chart that shows sales in different states within the USA. If you rollover a state, then you should be able to view the state name and sales 
+
+![task 4](https://user-images.githubusercontent.com/106580846/218467597-d1adb8ef-0baf-42f0-a790-b672160cd97a.png)
+
+## Task 5: Create a bubble chart
+The Global Super Store needs to check their profits within the USA. Create a bubble chart in Tableau. When you rollover a bubble, you should be able to view the following information, 
+*	State name
+*	Quantity sold
+*	Profits 
+*	Shipping cost
+
+![task 5](https://user-images.githubusercontent.com/106580846/218468079-eb619eeb-d2da-4f9f-89f7-f0a26488b17c.png)
+
+## Task 6: Create a line chart
+The Global Super Store want to view sales trends in the USA over the last 4 years. Create a line chart in Tableau for states with Sales of more than $40000. 
+
+![task 6](https://user-images.githubusercontent.com/106580846/218468430-b12475c0-0db2-48a0-890c-cad9279bb998.png)
+
+## Task 7: Create an interactive dashboard
+Create an interactive dashboard that includes the charts produced in the above tasks Name it ‘Sales and Profits in the USA’. If you click on a state, you should be able to view relevant sales and profits
+
+![task 7](https://user-images.githubusercontent.com/106580846/218468724-a0ad57c8-3b52-4eaf-9c9b-3a4dca84550c.png)
+
+
 
 
 
