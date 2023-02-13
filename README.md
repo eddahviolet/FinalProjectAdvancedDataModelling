@@ -68,17 +68,21 @@ The Global Super Store needs to check their profits within the USA. Create a bub
 
 ![task 5](https://user-images.githubusercontent.com/106580846/218468079-eb619eeb-d2da-4f9f-89f7-f0a26488b17c.png)
 
+Here is a link to the bubble chart on Tableau Public https://public.tableau.com/views/GlobalSuperStoreProfitsinUSA/ProfitsinUSA?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## Task 6: Create a line chart
 The Global Super Store want to view sales trends in the USA over the last 4 years. Create a line chart in Tableau for states with Sales of more than $40000. 
 
 ![task 6](https://user-images.githubusercontent.com/106580846/218468430-b12475c0-0db2-48a0-890c-cad9279bb998.png)
+
+Here is a link to the line chart on Tableau Public  https://public.tableau.com/views/GlobalSuperStoreSalesTrendinUSA/SalesTrendsinUSA?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Task 7: Create an interactive dashboard
 Create an interactive dashboard that includes the charts produced in the above tasks Name it ‘Sales and Profits in the USA’. If you click on a state, you should be able to view relevant sales and profits
 
 ![task 7](https://user-images.githubusercontent.com/106580846/218468724-a0ad57c8-3b52-4eaf-9c9b-3a4dca84550c.png)
 
-
+ Here is a link to the dashboard on Tableau Public https://public.tableau.com/views/GlobalSuperStoreSalesProfitinUSA/SalesandProfitsintheUSA?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 
