@@ -26,3 +26,31 @@ To check the Database creation, check the Schemas pane to see ‘globalsuperstor
 
 ![image](https://user-images.githubusercontent.com/106580846/218460704-2cbc8c09-11e4-4b8a-b6ff-67e10abe3d36.png)
 
+## Task 3: Create a star schema
+The marketing department at the Global Super Store Company want to build a campaign to promote the company’s products within the USA. First, they need to understand the company’s performance in this market by analyzing their sales data. They are interested in data related to products, locations and times only. 
+
+Create a Star schema that includes relevant fact and dimensions tables with relevant attributes and data types.
+
+#### Step 1 Identify the business process to deal with which is sales then identify the grain, the dimensions and the measures that will be used. 
+###### Dimensions: 
+*	Location.
+*	Time.
+*	Product
+###### Facts:
+*	Price of all products.
+*	Profits of all products
+*	Discounts of all products
+*	Total cost
+*	The quantity sold of each product.
+*	The shipping cost of each product.
+###### Levels of granularity:
+*	Region, country state, and city.
+*	Year, quarter, month, day 
+*	Category, subcategory and product name
+
+###### Step 2 Draw the star schema
+
+![task 3](https://user-images.githubusercontent.com/106580846/218465366-929dab58-8959-4ff4-942d-0665b5152645.png)
+
+
+
